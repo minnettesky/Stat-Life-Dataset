@@ -1,0 +1,430 @@
+LRT_line,incident,type,year,count_safetyincident
+LRT Line 1,Train Collision,Cases,2004,0
+LRT Line 1,Train Collision,Fatalities,2004,0
+LRT Line 1,Train Collision,Injuries,2004,0
+LRT Line 1,Derailment,Cases,2004,0
+LRT Line 1,Derailment,Fatalities,2004,0
+LRT Line 1,Derailment,Injuries,2004,0
+LRT Line 1,Rail Crossing,Cases,2004,0
+LRT Line 1,Rail Crossing,Fatalities,2004,0
+LRT Line 1,Rail Crossing,Injuries,2004,0
+LRT Line 1,Corporal Accident,Cases,2004,0
+LRT Line 1,Corporal Accident,Fatalities,2004,0
+LRT Line 1,Corporal Accident,Injuries,2004,0
+LRT Line 1,Suicide Intent,Cases,2004,1
+LRT Line 1,Suicide Intent,Fatalities,2004,1
+LRT Line 1,Suicide Intent,Injuries,2004,0
+LRT Line 1,Dragging,Cases,2004,0
+LRT Line 1,Dragging,Fatalities,2004,0
+LRT Line 1,Dragging,Injuries,2004,1
+LRT Line 1,Door Pinning,Cases,2004,0
+LRT Line 1,Door Pinning,Fatalities,2004,0
+LRT Line 1,Door Pinning,Injuries,2004,18
+LRT Line 2,Train Collision,Cases,2004,0
+LRT Line 2,Train Collision,Fatalities,2004,0
+LRT Line 2,Train Collision,Injuries,2004,0
+LRT Line 2,Derailment,Cases,2004,0
+LRT Line 2,Derailment,Fatalities,2004,0
+LRT Line 2,Derailment,Injuries,2004,0
+LRT Line 2,Rail Crossing,Cases,2004,0
+LRT Line 2,Rail Crossing,Fatalities,2004,0
+LRT Line 2,Rail Crossing,Injuries,2004,0
+LRT Line 2,Corporal Accident,Cases,2004,0
+LRT Line 2,Corporal Accident,Fatalities,2004,0
+LRT Line 2,Corporal Accident,Injuries,2004,0
+LRT Line 2,Suicide Intent,Cases,2004,0
+LRT Line 2,Suicide Intent,Fatalities,2004,0
+LRT Line 2,Suicide Intent,Injuries,2004,0
+LRT Line 2,Door Pinning,Cases,2004,0
+LRT Line 2,Door Pinning,Fatalities,2004,0
+LRT Line 2,Door Pinning,Injuries,2004,0
+LRT Line 1,Train Collision,Cases,2005,0
+LRT Line 1,Train Collision,Fatalities,2005,0
+LRT Line 1,Train Collision,Injuries,2005,0
+LRT Line 1,Derailment,Cases,2005,0
+LRT Line 1,Derailment,Fatalities,2005,0
+LRT Line 1,Derailment,Injuries,2005,0
+LRT Line 1,Rail Crossing,Cases,2005,0
+LRT Line 1,Rail Crossing,Fatalities,2005,0
+LRT Line 1,Rail Crossing,Injuries,2005,0
+LRT Line 1,Corporal Accident,Cases,2005,0
+LRT Line 1,Corporal Accident,Fatalities,2005,0
+LRT Line 1,Corporal Accident,Injuries,2005,0
+LRT Line 1,Suicide Intent,Cases,2005,4
+LRT Line 1,Suicide Intent,Fatalities,2005,1
+LRT Line 1,Suicide Intent,Injuries,2005,0
+LRT Line 1,Dragging,Cases,2005,0
+LRT Line 1,Dragging,Fatalities,2005,0
+LRT Line 1,Dragging,Injuries,2005,0
+LRT Line 1,Door Pinning,Cases,2005,0
+LRT Line 1,Door Pinning,Fatalities,2005,0
+LRT Line 1,Door Pinning,Injuries,2005,23
+LRT Line 2,Train Collision,Cases,2005,0
+LRT Line 2,Train Collision,Fatalities,2005,0
+LRT Line 2,Train Collision,Injuries,2005,0
+LRT Line 2,Derailment,Cases,2005,0
+LRT Line 2,Derailment,Fatalities,2005,0
+LRT Line 2,Derailment,Injuries,2005,0
+LRT Line 2,Rail Crossing,Cases,2005,0
+LRT Line 2,Rail Crossing,Fatalities,2005,0
+LRT Line 2,Rail Crossing,Injuries,2005,0
+LRT Line 2,Corporal Accident,Cases,2005,0
+LRT Line 2,Corporal Accident,Fatalities,2005,0
+LRT Line 2,Corporal Accident,Injuries,2005,0
+LRT Line 2,Suicide Intent,Cases,2005,0
+LRT Line 2,Suicide Intent,Fatalities,2005,0
+LRT Line 2,Suicide Intent,Injuries,2005,0
+LRT Line 2,Door Pinning,Cases,2005,0
+LRT Line 2,Door Pinning,Fatalities,2005,0
+LRT Line 2,Door Pinning,Injuries,2005,0
+LRT Line 1,Train Collision,Cases,2006,0
+LRT Line 1,Train Collision,Fatalities,2006,0
+LRT Line 1,Train Collision,Injuries,2006,0
+LRT Line 1,Derailment,Cases,2006,0
+LRT Line 1,Derailment,Fatalities,2006,0
+LRT Line 1,Derailment,Injuries,2006,0
+LRT Line 1,Rail Crossing,Cases,2006,0
+LRT Line 1,Rail Crossing,Fatalities,2006,0
+LRT Line 1,Rail Crossing,Injuries,2006,0
+LRT Line 1,Corporal Accident,Cases,2006,0
+LRT Line 1,Corporal Accident,Fatalities,2006,0
+LRT Line 1,Corporal Accident,Injuries,2006,0
+LRT Line 1,Suicide Intent,Cases,2006,1
+LRT Line 1,Suicide Intent,Fatalities,2006,0
+LRT Line 1,Suicide Intent,Injuries,2006,0
+LRT Line 1,Dragging,Cases,2006,0
+LRT Line 1,Dragging,Fatalities,2006,0
+LRT Line 1,Dragging,Injuries,2006,0
+LRT Line 1,Door Pinning,Cases,2006,0
+LRT Line 1,Door Pinning,Fatalities,2006,0
+LRT Line 1,Door Pinning,Injuries,2006,36
+LRT Line 2,Train Collision,Cases,2006,0
+LRT Line 2,Train Collision,Fatalities,2006,0
+LRT Line 2,Train Collision,Injuries,2006,0
+LRT Line 2,Derailment,Cases,2006,0
+LRT Line 2,Derailment,Fatalities,2006,0
+LRT Line 2,Derailment,Injuries,2006,0
+LRT Line 2,Rail Crossing,Cases,2006,0
+LRT Line 2,Rail Crossing,Fatalities,2006,0
+LRT Line 2,Rail Crossing,Injuries,2006,0
+LRT Line 2,Corporal Accident,Cases,2006,0
+LRT Line 2,Corporal Accident,Fatalities,2006,0
+LRT Line 2,Corporal Accident,Injuries,2006,0
+LRT Line 2,Suicide Intent,Cases,2006,0
+LRT Line 2,Suicide Intent,Fatalities,2006,0
+LRT Line 2,Suicide Intent,Injuries,2006,0
+LRT Line 2,Door Pinning,Cases,2006,0
+LRT Line 2,Door Pinning,Fatalities,2006,0
+LRT Line 2,Door Pinning,Injuries,2006,0
+LRT Line 1,Train Collision,Cases,2007,0
+LRT Line 1,Train Collision,Fatalities,2007,0
+LRT Line 1,Train Collision,Injuries,2007,0
+LRT Line 1,Derailment,Cases,2007,0
+LRT Line 1,Derailment,Fatalities,2007,0
+LRT Line 1,Derailment,Injuries,2007,0
+LRT Line 1,Rail Crossing,Cases,2007,0
+LRT Line 1,Rail Crossing,Fatalities,2007,0
+LRT Line 1,Rail Crossing,Injuries,2007,0
+LRT Line 1,Corporal Accident,Cases,2007,0
+LRT Line 1,Corporal Accident,Fatalities,2007,0
+LRT Line 1,Corporal Accident,Injuries,2007,0
+LRT Line 1,Suicide Intent,Cases,2007,1
+LRT Line 1,Suicide Intent,Fatalities,2007,0
+LRT Line 1,Suicide Intent,Injuries,2007,0
+LRT Line 1,Dragging,Cases,2007,0
+LRT Line 1,Dragging,Fatalities,2007,0
+LRT Line 1,Dragging,Injuries,2007,1
+LRT Line 1,Door Pinning,Cases,2007,0
+LRT Line 1,Door Pinning,Fatalities,2007,0
+LRT Line 1,Door Pinning,Injuries,2007,19
+LRT Line 2,Train Collision,Cases,2007,0
+LRT Line 2,Train Collision,Fatalities,2007,0
+LRT Line 2,Train Collision,Injuries,2007,0
+LRT Line 2,Derailment,Cases,2007,0
+LRT Line 2,Derailment,Fatalities,2007,0
+LRT Line 2,Derailment,Injuries,2007,0
+LRT Line 2,Rail Crossing,Cases,2007,0
+LRT Line 2,Rail Crossing,Fatalities,2007,0
+LRT Line 2,Rail Crossing,Injuries,2007,0
+LRT Line 2,Corporal Accident,Cases,2007,0
+LRT Line 2,Corporal Accident,Fatalities,2007,0
+LRT Line 2,Corporal Accident,Injuries,2007,0
+LRT Line 2,Suicide Intent,Cases,2007,0
+LRT Line 2,Suicide Intent,Fatalities,2007,0
+LRT Line 2,Suicide Intent,Injuries,2007,0
+LRT Line 2,Door Pinning,Cases,2007,0
+LRT Line 2,Door Pinning,Fatalities,2007,0
+LRT Line 2,Door Pinning,Injuries,2007,49
+LRT Line 1,Train Collision,Cases,2008,0
+LRT Line 1,Train Collision,Fatalities,2008,0
+LRT Line 1,Train Collision,Injuries,2008,0
+LRT Line 1,Derailment,Cases,2008,0
+LRT Line 1,Derailment,Fatalities,2008,0
+LRT Line 1,Derailment,Injuries,2008,0
+LRT Line 1,Rail Crossing,Cases,2008,0
+LRT Line 1,Rail Crossing,Fatalities,2008,0
+LRT Line 1,Rail Crossing,Injuries,2008,0
+LRT Line 1,Corporal Accident,Cases,2008,0
+LRT Line 1,Corporal Accident,Fatalities,2008,0
+LRT Line 1,Corporal Accident,Injuries,2008,0
+LRT Line 1,Suicide Intent,Cases,2008,0
+LRT Line 1,Suicide Intent,Fatalities,2008,0
+LRT Line 1,Suicide Intent,Injuries,2008,0
+LRT Line 1,Dragging,Cases,2008,0
+LRT Line 1,Dragging,Fatalities,2008,0
+LRT Line 1,Dragging,Injuries,2008,2
+LRT Line 1,Door Pinning,Cases,2008,0
+LRT Line 1,Door Pinning,Fatalities,2008,0
+LRT Line 1,Door Pinning,Injuries,2008,29
+LRT Line 2,Train Collision,Cases,2008,0
+LRT Line 2,Train Collision,Fatalities,2008,0
+LRT Line 2,Train Collision,Injuries,2008,0
+LRT Line 2,Derailment,Cases,2008,0
+LRT Line 2,Derailment,Fatalities,2008,0
+LRT Line 2,Derailment,Injuries,2008,0
+LRT Line 2,Rail Crossing,Cases,2008,0
+LRT Line 2,Rail Crossing,Fatalities,2008,0
+LRT Line 2,Rail Crossing,Injuries,2008,0
+LRT Line 2,Corporal Accident,Cases,2008,0
+LRT Line 2,Corporal Accident,Fatalities,2008,0
+LRT Line 2,Corporal Accident,Injuries,2008,0
+LRT Line 2,Suicide Intent,Cases,2008,0
+LRT Line 2,Suicide Intent,Fatalities,2008,0
+LRT Line 2,Suicide Intent,Injuries,2008,0
+LRT Line 2,Door Pinning,Cases,2008,0
+LRT Line 2,Door Pinning,Fatalities,2008,0
+LRT Line 2,Door Pinning,Injuries,2008,66
+LRT Line 1,Train Collision,Cases,2009,0
+LRT Line 1,Train Collision,Fatalities,2009,0
+LRT Line 1,Train Collision,Injuries,2009,0
+LRT Line 1,Derailment,Cases,2009,0
+LRT Line 1,Derailment,Fatalities,2009,0
+LRT Line 1,Derailment,Injuries,2009,0
+LRT Line 1,Rail Crossing,Cases,2009,0
+LRT Line 1,Rail Crossing,Fatalities,2009,0
+LRT Line 1,Rail Crossing,Injuries,2009,0
+LRT Line 1,Corporal Accident,Cases,2009,0
+LRT Line 1,Corporal Accident,Fatalities,2009,0
+LRT Line 1,Corporal Accident,Injuries,2009,0
+LRT Line 1,Suicide Intent,Cases,2009,1
+LRT Line 1,Suicide Intent,Fatalities,2009,0
+LRT Line 1,Suicide Intent,Injuries,2009,0
+LRT Line 1,Dragging,Cases,2009,0
+LRT Line 1,Dragging,Fatalities,2009,0
+LRT Line 1,Dragging,Injuries,2009,2
+LRT Line 1,Door Pinning,Cases,2009,0
+LRT Line 1,Door Pinning,Fatalities,2009,0
+LRT Line 1,Door Pinning,Injuries,2009,21
+LRT Line 2,Train Collision,Cases,2009,0
+LRT Line 2,Train Collision,Fatalities,2009,0
+LRT Line 2,Train Collision,Injuries,2009,0
+LRT Line 2,Derailment,Cases,2009,0
+LRT Line 2,Derailment,Fatalities,2009,0
+LRT Line 2,Derailment,Injuries,2009,0
+LRT Line 2,Rail Crossing,Cases,2009,0
+LRT Line 2,Rail Crossing,Fatalities,2009,0
+LRT Line 2,Rail Crossing,Injuries,2009,0
+LRT Line 2,Corporal Accident,Cases,2009,0
+LRT Line 2,Corporal Accident,Fatalities,2009,0
+LRT Line 2,Corporal Accident,Injuries,2009,0
+LRT Line 2,Suicide Intent,Cases,2009,0
+LRT Line 2,Suicide Intent,Fatalities,2009,0
+LRT Line 2,Suicide Intent,Injuries,2009,0
+LRT Line 2,Door Pinning,Cases,2009,0
+LRT Line 2,Door Pinning,Fatalities,2009,0
+LRT Line 2,Door Pinning,Injuries,2009,95
+LRT Line 1,Train Collision,Cases,2010,1
+LRT Line 1,Train Collision,Fatalities,2010,0
+LRT Line 1,Train Collision,Injuries,2010,0
+LRT Line 1,Derailment,Cases,2010,0
+LRT Line 1,Derailment,Fatalities,2010,0
+LRT Line 1,Derailment,Injuries,2010,0
+LRT Line 1,Rail Crossing,Cases,2010,0
+LRT Line 1,Rail Crossing,Fatalities,2010,0
+LRT Line 1,Rail Crossing,Injuries,2010,0
+LRT Line 1,Corporal Accident,Cases,2010,0
+LRT Line 1,Corporal Accident,Fatalities,2010,0
+LRT Line 1,Corporal Accident,Injuries,2010,0
+LRT Line 1,Suicide Intent,Cases,2010,0
+LRT Line 1,Suicide Intent,Fatalities,2010,0
+LRT Line 1,Suicide Intent,Injuries,2010,0
+LRT Line 1,Dragging,Cases,2010,0
+LRT Line 1,Dragging,Fatalities,2010,0
+LRT Line 1,Dragging,Injuries,2010,0
+LRT Line 1,Door Pinning,Cases,2010,0
+LRT Line 1,Door Pinning,Fatalities,2010,0
+LRT Line 1,Door Pinning,Injuries,2010,24
+LRT Line 2,Train Collision,Cases,2010,0
+LRT Line 2,Train Collision,Fatalities,2010,0
+LRT Line 2,Train Collision,Injuries,2010,0
+LRT Line 2,Derailment,Cases,2010,0
+LRT Line 2,Derailment,Fatalities,2010,0
+LRT Line 2,Derailment,Injuries,2010,0
+LRT Line 2,Rail Crossing,Cases,2010,0
+LRT Line 2,Rail Crossing,Fatalities,2010,0
+LRT Line 2,Rail Crossing,Injuries,2010,0
+LRT Line 2,Corporal Accident,Cases,2010,0
+LRT Line 2,Corporal Accident,Fatalities,2010,0
+LRT Line 2,Corporal Accident,Injuries,2010,0
+LRT Line 2,Suicide Intent,Cases,2010,0
+LRT Line 2,Suicide Intent,Fatalities,2010,0
+LRT Line 2,Suicide Intent,Injuries,2010,0
+LRT Line 2,Door Pinning,Cases,2010,0
+LRT Line 2,Door Pinning,Fatalities,2010,0
+LRT Line 2,Door Pinning,Injuries,2010,40
+LRT Line 1,Train Collision,Cases,2011,1
+LRT Line 1,Train Collision,Fatalities,2011,0
+LRT Line 1,Train Collision,Injuries,2011,0
+LRT Line 1,Derailment,Cases,2011,0
+LRT Line 1,Derailment,Fatalities,2011,0
+LRT Line 1,Derailment,Injuries,2011,0
+LRT Line 1,Rail Crossing,Cases,2011,0
+LRT Line 1,Rail Crossing,Fatalities,2011,0
+LRT Line 1,Rail Crossing,Injuries,2011,0
+LRT Line 1,Corporal Accident,Cases,2011,0
+LRT Line 1,Corporal Accident,Fatalities,2011,0
+LRT Line 1,Corporal Accident,Injuries,2011,0
+LRT Line 1,Suicide Intent,Cases,2011,1
+LRT Line 1,Suicide Intent,Fatalities,2011,0
+LRT Line 1,Suicide Intent,Injuries,2011,0
+LRT Line 1,Dragging,Cases,2011,0
+LRT Line 1,Dragging,Fatalities,2011,0
+LRT Line 1,Dragging,Injuries,2011,0
+LRT Line 1,Door Pinning,Cases,2011,0
+LRT Line 1,Door Pinning,Fatalities,2011,0
+LRT Line 1,Door Pinning,Injuries,2011,39
+LRT Line 2,Train Collision,Cases,2011,0
+LRT Line 2,Train Collision,Fatalities,2011,0
+LRT Line 2,Train Collision,Injuries,2011,0
+LRT Line 2,Derailment,Cases,2011,0
+LRT Line 2,Derailment,Fatalities,2011,0
+LRT Line 2,Derailment,Injuries,2011,0
+LRT Line 2,Rail Crossing,Cases,2011,0
+LRT Line 2,Rail Crossing,Fatalities,2011,0
+LRT Line 2,Rail Crossing,Injuries,2011,0
+LRT Line 2,Corporal Accident,Cases,2011,0
+LRT Line 2,Corporal Accident,Fatalities,2011,0
+LRT Line 2,Corporal Accident,Injuries,2011,0
+LRT Line 2,Suicide Intent,Cases,2011,1
+LRT Line 2,Suicide Intent,Fatalities,2011,0
+LRT Line 2,Suicide Intent,Injuries,2011,0
+LRT Line 2,Door Pinning,Cases,2011,0
+LRT Line 2,Door Pinning,Fatalities,2011,0
+LRT Line 2,Door Pinning,Injuries,2011,25
+LRT Line 1,Train Collision,Cases,2012,0
+LRT Line 1,Train Collision,Fatalities,2012,0
+LRT Line 1,Train Collision,Injuries,2012,0
+LRT Line 1,Derailment,Cases,2012,0
+LRT Line 1,Derailment,Fatalities,2012,0
+LRT Line 1,Derailment,Injuries,2012,0
+LRT Line 1,Rail Crossing,Cases,2012,0
+LRT Line 1,Rail Crossing,Fatalities,2012,0
+LRT Line 1,Rail Crossing,Injuries,2012,0
+LRT Line 1,Corporal Accident,Cases,2012,0
+LRT Line 1,Corporal Accident,Fatalities,2012,0
+LRT Line 1,Corporal Accident,Injuries,2012,0
+LRT Line 1,Suicide Intent,Cases,2012,2
+LRT Line 1,Suicide Intent,Fatalities,2012,0
+LRT Line 1,Suicide Intent,Injuries,2012,0
+LRT Line 1,Dragging,Cases,2012,0
+LRT Line 1,Dragging,Fatalities,2012,0
+LRT Line 1,Dragging,Injuries,2012,1
+LRT Line 1,Door Pinning,Cases,2012,0
+LRT Line 1,Door Pinning,Fatalities,2012,0
+LRT Line 1,Door Pinning,Injuries,2012,25
+LRT Line 2,Train Collision,Cases,2012,0
+LRT Line 2,Train Collision,Fatalities,2012,0
+LRT Line 2,Train Collision,Injuries,2012,0
+LRT Line 2,Derailment,Cases,2012,0
+LRT Line 2,Derailment,Fatalities,2012,0
+LRT Line 2,Derailment,Injuries,2012,0
+LRT Line 2,Rail Crossing,Cases,2012,0
+LRT Line 2,Rail Crossing,Fatalities,2012,0
+LRT Line 2,Rail Crossing,Injuries,2012,0
+LRT Line 2,Corporal Accident,Cases,2012,0
+LRT Line 2,Corporal Accident,Fatalities,2012,0
+LRT Line 2,Corporal Accident,Injuries,2012,0
+LRT Line 2,Suicide Intent,Cases,2012,0
+LRT Line 2,Suicide Intent,Fatalities,2012,0
+LRT Line 2,Suicide Intent,Injuries,2012,0
+LRT Line 2,Door Pinning,Cases,2012,0
+LRT Line 2,Door Pinning,Fatalities,2012,0
+LRT Line 2,Door Pinning,Injuries,2012,21
+LRT Line 1,Train Collision,Cases,2013,0
+LRT Line 1,Train Collision,Fatalities,2013,0
+LRT Line 1,Train Collision,Injuries,2013,0
+LRT Line 1,Derailment,Cases,2013,0
+LRT Line 1,Derailment,Fatalities,2013,0
+LRT Line 1,Derailment,Injuries,2013,0
+LRT Line 1,Rail Crossing,Cases,2013,0
+LRT Line 1,Rail Crossing,Fatalities,2013,0
+LRT Line 1,Rail Crossing,Injuries,2013,0
+LRT Line 1,Corporal Accident,Cases,2013,0
+LRT Line 1,Corporal Accident,Fatalities,2013,0
+LRT Line 1,Corporal Accident,Injuries,2013,0
+LRT Line 1,Suicide Intent,Cases,2013,2
+LRT Line 1,Suicide Intent,Fatalities,2013,0
+LRT Line 1,Suicide Intent,Injuries,2013,0
+LRT Line 1,Dragging,Cases,2013,0
+LRT Line 1,Dragging,Fatalities,2013,0
+LRT Line 1,Dragging,Injuries,2013,1
+LRT Line 1,Door Pinning,Cases,2013,0
+LRT Line 1,Door Pinning,Fatalities,2013,0
+LRT Line 1,Door Pinning,Injuries,2013,9
+LRT Line 2,Train Collision,Cases,2013,0
+LRT Line 2,Train Collision,Fatalities,2013,0
+LRT Line 2,Train Collision,Injuries,2013,0
+LRT Line 2,Derailment,Cases,2013,0
+LRT Line 2,Derailment,Fatalities,2013,0
+LRT Line 2,Derailment,Injuries,2013,0
+LRT Line 2,Rail Crossing,Cases,2013,0
+LRT Line 2,Rail Crossing,Fatalities,2013,0
+LRT Line 2,Rail Crossing,Injuries,2013,0
+LRT Line 2,Corporal Accident,Cases,2013,0
+LRT Line 2,Corporal Accident,Fatalities,2013,0
+LRT Line 2,Corporal Accident,Injuries,2013,0
+LRT Line 2,Suicide Intent,Cases,2013,0
+LRT Line 2,Suicide Intent,Fatalities,2013,0
+LRT Line 2,Suicide Intent,Injuries,2013,0
+LRT Line 2,Door Pinning,Cases,2013,0
+LRT Line 2,Door Pinning,Fatalities,2013,0
+LRT Line 2,Door Pinning,Injuries,2013,7
+LRT Line 1,Train Collision,Cases,2014,0
+LRT Line 1,Train Collision,Fatalities,2014,0
+LRT Line 1,Train Collision,Injuries,2014,0
+LRT Line 1,Derailment,Cases,2014,0
+LRT Line 1,Derailment,Fatalities,2014,0
+LRT Line 1,Derailment,Injuries,2014,0
+LRT Line 1,Rail Crossing,Cases,2014,0
+LRT Line 1,Rail Crossing,Fatalities,2014,0
+LRT Line 1,Rail Crossing,Injuries,2014,0
+LRT Line 1,Corporal Accident,Cases,2014,0
+LRT Line 1,Corporal Accident,Fatalities,2014,0
+LRT Line 1,Corporal Accident,Injuries,2014,0
+LRT Line 1,Suicide Intent,Cases,2014,1
+LRT Line 1,Suicide Intent,Fatalities,2014,0
+LRT Line 1,Suicide Intent,Injuries,2014,0
+LRT Line 1,Dragging,Cases,2014,0
+LRT Line 1,Dragging,Fatalities,2014,0
+LRT Line 1,Dragging,Injuries,2014,0
+LRT Line 1,Door Pinning,Cases,2014,0
+LRT Line 1,Door Pinning,Fatalities,2014,0
+LRT Line 1,Door Pinning,Injuries,2014,15
+LRT Line 2,Train Collision,Cases,2014,0
+LRT Line 2,Train Collision,Fatalities,2014,0
+LRT Line 2,Train Collision,Injuries,2014,0
+LRT Line 2,Derailment,Cases,2014,0
+LRT Line 2,Derailment,Fatalities,2014,0
+LRT Line 2,Derailment,Injuries,2014,0
+LRT Line 2,Rail Crossing,Cases,2014,0
+LRT Line 2,Rail Crossing,Fatalities,2014,0
+LRT Line 2,Rail Crossing,Injuries,2014,0
+LRT Line 2,Corporal Accident,Cases,2014,0
+LRT Line 2,Corporal Accident,Fatalities,2014,0
+LRT Line 2,Corporal Accident,Injuries,2014,0
+LRT Line 2,Suicide Intent,Cases,2014,0
+LRT Line 2,Suicide Intent,Fatalities,2014,0
+LRT Line 2,Suicide Intent,Injuries,2014,0
+LRT Line 2,Door Pinning,Cases,2014,0
+LRT Line 2,Door Pinning,Fatalities,2014,0
+LRT Line 2,Door Pinning,Injuries,2014,18
